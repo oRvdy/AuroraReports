@@ -1,0 +1,5 @@
+name: AuroraReports
+version: 1.0
+author: Ryverday
+description: Re-Coding do AuroraReports
+main: com.auroramc.reports.Main
