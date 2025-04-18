@@ -23,4 +23,4 @@ Entre os principais recursos:
 
 Você pode utilizar os arquivos no seu próprio servidor ou como base para novos projetos. Só peço que **mantenha os créditos** à **AuroraMC** e ao criador original, **oNyell**.
 
-GitHub do criador original: [oNyell](https://github.com/oNyell)
+GitHub do criador original: [oNyell](https://github.com/oNyell) E [oJVzinn](https://github.com/oJVzinn)
